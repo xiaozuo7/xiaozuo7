@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 
 - 🌱 I’m currently learning [Go](https://github.com/golang/go) & [Python](https://github.com/python/cpython)
