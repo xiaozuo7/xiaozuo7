@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning `Go` & `Python`
+- 🌱 I’m currently learning [Go](https://github.com/golang/go) & [Python](https://github.com/python/cpython)
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
