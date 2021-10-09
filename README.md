@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning [Go](https://github.com/golang/go) & [Python](https://github.com/python/cpython) & [Ruby](https://github.com/ruby/ruby)
-- 🔭 I’m currently working on ChengDu, China
+- 🔭 I’m currently working on Chengdu, China
 - 📫 How to reach me: [chenpengxz@qq.com](chenpengxz@qq.com)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
