@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 
-- 🌱 I’m currently learning [Go](https://github.com/golang/go)
+- 🌱 I’m currently learning [Go](https://github.com/golang/go), [Vue3](https://cn.vuejs.org/)
 - 🔭 I’m currently working on Chengdu, China
 - 📫 How to reach me: [chenpengxz@qq.com](chenpengxz@qq.com)
 <!-- - 😄 Pronouns: ...
