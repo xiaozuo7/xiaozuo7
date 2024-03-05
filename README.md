@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 
-- 🌱 I’m currently learning Go, Vue3, JavaScript, K8s, Docker
+- 🌱 I’m currently learning Go, Vue3, JavaScript, K8s, Containerd
 - 🔭 I’m currently working on Chengdu, China
 - 📫 How to reach me: [chenpengxz@qq.com](chenpengxz@qq.com)
 <!-- - 😄 Pronouns: ...
